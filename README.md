@@ -1,4 +1,4 @@
-Hi 👋 My name is Danil Ovcharov
+Hi 👋 My name is Danil
 ===============================
 
 Beginner Web Developer
