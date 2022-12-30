@@ -31,10 +31,10 @@ Beginner Web Developer
 <p align="left"> <a href="https://www.github.com/danilaov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danilaov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<a href="[https://github.com/danilaov" align="left](https://www.codewars.com/users/Danil%20Ovcharov/badges/micro)">
+<a href="https://github.com/danilaov" align="left">
     <svg width="120" height="20" viewBox="0 0 120 20" xmlns="http://www.w3.org/2000/svg">
     <path fill="#303133" d="M114.226 20L120 10l-5.774-10H15.774v20z"/>
-    <path fill="#000000" opacity=".99" d="M5.774 20L0 10 5.774 0H64.97l5.773 10-5.773 10z"/>
+    <path fill="#1D1D1F" opacity=".99" d="M5.774 20L0 10 5.774 0H64.97l5.773 10-5.773 10z"/>
     <path fill="#141414" d="M63.51 17.36L67.606 10 63.51 2.64H34.05L29.951 10l4.097 7.36z"/>
     <text fill="#E6E6E6" font-family="Lato, HelveticaNeue, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10" x="20" y="12" text-anchor="middle" transform="translate(28 1)">7 kyu</text>
     <path fill="#E6E6E6" d="M33.196 19L28 10l5.196-9h31.177l5.196 9-5.196 9H33.196zm29.966-2.078l4-6.922-4-6.922H34.397l-4 6.922 4 6.922h28.765z" />
